@@ -128,6 +128,7 @@
             this.Controls.Add(this.label1);
             this.Name = "maingame";
             this.Text = "Form2";
+            this.Load += new System.EventHandler(this.maingame_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

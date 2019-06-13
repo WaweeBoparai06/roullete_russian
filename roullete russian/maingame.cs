@@ -120,5 +120,10 @@ namespace roullete_russian
         {
 
         }
+
+        private void maingame_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
